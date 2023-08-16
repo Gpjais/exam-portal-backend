@@ -1,5 +1,5 @@
 # exam-portal-backend
-# Angular Front End Code for this Web App is also in one of my repository "https://github.com/Gpjais/Exam-Portal". 
+# Angular Front End Code for this Web App is in one of my repository "https://github.com/Gpjais/Exam-Portal". 
 # currently this project is getting developed by me it is yet 50% developed. 
 
 this is backend code for exam portal web application, which is developed using Springboot, hibernate, mysql. there are multiple rest API's which takes the 
